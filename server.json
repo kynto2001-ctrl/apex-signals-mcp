@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "com.apexrunner/signals",
+  "name": "ai.apexrunner/signals",
   "title": "APEX Runner Crypto Signals",
   "description": "Live crypto market signals for trading agents, pay-per-call in USDC on Base via x402.",
   "version": "2.0.0",
