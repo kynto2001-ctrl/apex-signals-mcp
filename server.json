@@ -3,8 +3,17 @@
   "name": "ai.apexrunner/signals",
   "title": "APEX Runner Crypto Signals",
   "description": "Live crypto market signals for trading agents, pay-per-call in USDC on Base via x402.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "websiteUrl": "https://apexrunner.ai",
+  "icons": [
+    {
+      "src": "https://apexrunner.ai/logo.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",

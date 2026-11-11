@@ -1,3 +1,5 @@
+<p align="center"><img src="https://apexrunner.ai/logo.png" alt="APEX Runner" width="128" height="128"></p>
+
 # APEX Runner Crypto Signals — MCP server
 
 Live crypto market signals for AI trading agents, served over the
@@ -10,7 +12,7 @@ The server itself is hosted at `https://apexrunner.ai/mcp`; its source is not pu
 
 ## What it provides
 
-49 tools: 46 paid signals and 3 free tools.
+49 tools: 46 live crypto signals (paid) and 3 free tools.
 
 - **Market regime and sentiment:** regime detection and confluence across BTC, ETH and SOL,
   regime-transition probability, Fear & Greed, altcoin season, BTC dominance.
